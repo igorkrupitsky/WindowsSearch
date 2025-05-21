@@ -18,16 +18,16 @@ Windows Search lets you search contents of the files.
 ![](img/Services.png)
    
 2. Make sure your folder is added under "Indexing Options". Go to: Control Panel > Indexing Options.
-![](img/IndexingOptions.jpg)
+![](img/IndexingOptions.png)
  
 3. Check PDF Filter. Install PDF Filter if it is missing from Adobe. Check office files (docx, xlsx, pptx) filters. Install. Microsoft Office 2010 Filter Packs if they are missing.
-![](img/PdfFilter.jpg)
+![](img/PdfFilter.png)
 
 4. You can test the index by doing content search in Windows Explorer. In the top right corner, type "Content:" followed by file content.
-![](img/Search.jpg)
+![](img/Search.png)
 
 5. If you cannot find the file, you can manually rebuild the index:
-![](img/Rebuild.jpg)
+![](img/Rebuild.png)
 
 6. The Windows Search index is stored in "C:\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb" and can be moved to another location.
-![](img/IndexingLocation.jpg)
+![](img/IndexingLocation.png)
